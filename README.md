@@ -1,9 +1,6 @@
-# GestureMouse - Hand Gesture Cursor Control
+# **🎮** [GestureMouse](https://youtu.be/n14O1pGMJQQ) - Cursor Control 
 
 Transform your webcam into a natural input device. Control your mouse cursor, click, scroll, and zoom using intuitive hand gestures. No touch required.
-
-https://youtu.be/n14O1pGMJQQ
-[GestureMouse](https://youtu.be/n14O1pGMJQQ)
 
 ## Overview
 
