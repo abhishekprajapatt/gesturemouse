@@ -2,6 +2,9 @@
 
 Transform your webcam into a natural input device. Control your mouse cursor, click, scroll, and zoom using intuitive hand gestures. No touch required.
 
+https://youtu.be/n14O1pGMJQQ
+[GestureMouse](https://youtu.be/n14O1pGMJQQ)
+
 ## Overview
 
 GestureMouse is an open-source Windows application that replaces traditional mouse input with real-time hand gesture recognition. Using advanced computer vision and machine learning, your hand becomes your mouse. Point to move, pinch to click, and use multi-hand gestures for advanced interactions.
